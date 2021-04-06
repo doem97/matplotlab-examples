@@ -1,4 +1,4 @@
-# matplotlab-examples
+# matplotlib-examples
 Minimum example codes for matplotlib draw deep learning diagrams, easy to understand and re-use. See below example lists, just copy the corresponding code in `.py` file to jupyter notebook and get a academic paper ready plot.
 
 ### Example lists
